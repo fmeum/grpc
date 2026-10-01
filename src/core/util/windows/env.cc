@@ -20,9 +20,9 @@
 
 #ifdef GPR_WINDOWS_ENV
 
+#include <stdlib.h>
 #include <windows.h>
 
-#include <stdlib.h>
 #include <memory>
 
 #include "src/core/util/env.h"
